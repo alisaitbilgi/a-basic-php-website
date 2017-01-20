@@ -29,7 +29,6 @@ Notes:
 
 -filter option is for searching for one type of dedicated filtering. Multiple filters won’t work so please keep in mind and search with one option.
 
--In order to login quickly(without registering) please type;
 
 
 website url:   https://fromtheownerkom.000webhostapp.com/
